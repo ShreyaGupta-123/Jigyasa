@@ -222,7 +222,7 @@ body{
 #frame3:checked~#controls label:nth-child(4),
 #frame4:checked~#controls label:nth-child(1) {
 	background:
-url(images/right-arrow-svgrepo-com.svg) no-repeat;
+url(./images/right-arrow-svgrepo-com.svg) no-repeat;
 	float: right;
 	margin: 0px -50px 0 0;
 	display: block;
@@ -233,7 +233,7 @@ url(images/right-arrow-svgrepo-com.svg) no-repeat;
 #frame3:checked~#controls label:nth-child(2),
 #frame4:checked~#controls label:nth-child(3) {
 	background:
-url(images/left-arrow-svgrepo-com.svg) no-repeat;
+url(./images/left-arrow-svgrepo-com.svg) no-repeat;
 	float: left;
 	margin: 0 0 0 -50px;
 	display: block;
